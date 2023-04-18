@@ -1,0 +1,113 @@
+alley, 1
+borrow, 1
+alley, 1
+ask, 1
+borrow, 1
+bouncy, 1
+alley, 2
+ask, 2
+borrow, 1
+bouncy, 2
+eyes, 2
+adhesive, 1
+alley, 2
+ask, 2
+borrow, 1
+bouncy, 2
+eyes, 2
+punish, 1
+recondite, 1
+salty, 1
+Best extension of a is alley
+Best extension of as is ask
+Best extension of ask is ask
+No extension of d
+No extension of di
+No extension of dip
+Best extension of a is alley
+No extension of ac
+No extension of act
+No extension of acti
+No extension of activ
+No extension of activi
+No extension of activit
+No extension of activity
+Best extension of b is bouncy
+No extension of bl
+No extension of blu
+No extension of blur
+Best extension of a is alley
+No extension of an
+No extension of ans
+No extension of answ
+No extension of answe
+No extension of answer
+activity, 1
+adhesive, 1
+alley, 2
+ask, 2
+blur, 1
+borrow, 1
+bouncy, 2
+dip, 1
+eyes, 2
+fry, 1
+punish, 1
+recondite, 1
+salty, 1
+Best extension of a is alley
+Best extension of as is ask
+Best extension of ask is ask
+Best extension of d is dip
+Best extension of di is dip
+Best extension of dip is dip
+Best extension of a is alley
+Best extension of ac is activity
+Best extension of act is activity
+Best extension of acti is activity
+Best extension of activ is activity
+Best extension of activi is activity
+Best extension of activit is activity
+Best extension of activity is activity
+Best extension of b is bouncy
+Best extension of bl is blur
+Best extension of blu is blur
+Best extension of blur is blur
+Best extension of a is alley
+Best extension of an is answer
+Best extension of ans is answer
+Best extension of answ is answer
+Best extension of answe is answer
+Best extension of answer is answer
+activity, 1
+adhesive, 1
+alley, 2
+answer, 1
+ask, 2
+blur, 1
+borrow, 1
+bouncy, 2
+dip, 2
+eyes, 2
+fry, 1
+punish, 1
+recondite, 1
+salty, 1
+Best extension of a is activity
+Best extension of ac is activity
+Best extension of act is activity
+Best extension of acti is activity
+Best extension of activ is activity
+Best extension of activi is activity
+Best extension of activit is activity
+Best extension of activity is activity
+Best extension of b is blur
+Best extension of bl is blur
+Best extension of blu is blur
+Best extension of blur is blur
+Best extension of a is activity
+Best extension of an is answer
+Best extension of ans is answer
+Best extension of answ is answer
+Best extension of answe is answer
+Best extension of answer is answer
